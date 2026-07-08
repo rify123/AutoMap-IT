@@ -1,0 +1,19 @@
+Licencia propietaria de AutoMap IT
+
+Copyright (c) 2026 Aziz Arbiine.
+Todos los derechos reservados.
+
+Este software es propiedad de Aziz Arbiine.
+
+La descarga, recepción o posesión de una copia de este software no transfiere la propiedad intelectual ni la autoría del proyecto.
+
+No se permite modificar, redistribuir, publicar, vender, sublicenciar, revender, alquilar, empaquetar, incorporar en productos de terceros ni explotar comercialmente este software sin autorización escrita del autor.
+
+No se permite eliminar, ocultar o alterar los avisos de copyright, autoría, versión, licencia o atribución incluidos en el software, la documentación, los informes o la interfaz.
+
+Queda prohibido atribuirse la autoría, presentar este software como propio o afirmar que se ha creado total o parcialmente sin reconocer a su autor original.
+
+Autor: Aziz Arbiine
+LinkedIn: https://www.linkedin.com/in/aziz-arbiine
+
+Para obtener permisos de uso, distribución, modificación o integración, se requiere autorización escrita de Aziz Arbiine.
